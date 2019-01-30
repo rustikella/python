@@ -2,6 +2,11 @@
     "people": [
         {
             "website": "stackabuse.com", 
+            "from": "nevada", 
+            "name": "maria"
+        },
+        {
+            "website": "mdonald", 
             "from": "Nebraska", 
             "name": "Scott"
         }
