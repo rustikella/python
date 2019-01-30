@@ -1,7 +1,7 @@
 {
     "people": [
         {
-            "application": "servizi", 
+            "application": "anagrafica", 
             "war": "ticket-monster"
         }
     ]
