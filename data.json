@@ -1,12 +1,16 @@
 {
     "maps": [
         {
-            "id": "1",
-            "iscategorical": "0"
+            "application": "Anagrafica",
+            "war": "Cittadini"
+        },
+         {
+            "application": "Anagrafica",
+            "war": "Studenti"
         },
         {
-            "id": "2",
-            "iscategorical": "4"
+            "application": "Servizi",
+            "war": "ticket-monster"
         }
     ]
 }
