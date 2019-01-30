@@ -1,16 +1,9 @@
 {
-    "maps": [
+    "people": [
         {
-            "application": "Anagrafica",
-            "war": "Cittadini"
-        },
-         {
-            "application": "Anagrafica",
-            "war": "Studenti"
-        },
-        {
-            "application": "Servizi",
-            "war": "ticket-monster"
+            "website": "stackabuse.com", 
+            "from": "Nebraska", 
+            "name": "Scott"
         }
     ]
 }
