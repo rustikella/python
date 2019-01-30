@@ -2,11 +2,11 @@
     "people": [
         {
             "application": "anagrafica", 
-            "war": "cittadini",           
+            "war": "cittadini"        
         },
         {
             "application": "servizi", 
-            "war": "ticket-monster", 
+            "war": "ticket-monster"
         }
     ]
 }
