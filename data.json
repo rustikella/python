@@ -1,14 +1,12 @@
 {
     "people": [
         {
-            "website": "stackabuse.com", 
-            "from": "nevada", 
-            "name": "maria"
+            "application": "anagrafica", 
+            "war": "cittadini",           
         },
         {
-            "website": "mdonald", 
-            "from": "Nebraska", 
-            "name": "Scott"
+            "application": "servizi", 
+            "war": "ticket-monster", 
         }
     ]
 }
